@@ -5,8 +5,8 @@
 
 ##
 <br><br>
-<img align="right" height="141em" src="https://i.gifer.com/origin/90/90eb338d73458490efb0c1df1b696098.gif"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethobr&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="140em" src="https://i.gifer.com/origin/90/90eb338d73458490efb0c1df1b696098.gif"/>
+<img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethobr&layout=compact&langs_count=7&theme=dark"/>
 
 ##
 
